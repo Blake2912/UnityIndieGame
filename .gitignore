@@ -1,0 +1,52 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated
+/*.booproj
+*.pidb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.csproj
+*.pdb
+
+# Unity3D generated meta files
+*.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Mac generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Builds
+/[Bb]uild/
+
+# Runtime files
+/[Bb]uild/[Ww]indows/[Ww]eb/[Pp]layer/[Ww]eb[ Gg]L/
+/[Bb]uild/[Ww]indows/[Ss]tandalone/[Ww]indows[ -_][Pp]layer/
+/[Bb]uild/[Ll]inux/[Ss]tandalone/[Ll]inux[ -_][Pp]layer/
+/[Bb]uild/[Ll]inux64/[Ss]tandalone/[Ll]inux64[ -_][Pp]layer/
+/[Bb]uild/[Mm]ac[Oo]S[ -_][Uu]niversal/[Mm]ac[Oo]S[ -_][Uu]niversal[ -_][Pp]layer/
+/[Bb]uild/[Ii]os/[Pp]layer/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Android
+/[Bb]uild/[Aa]ndroid
+/[Bb]uild/[Aa]ndroid/gradle
+/[Bb]uild/[Aa]ndroid/gradle/wrapper
+
+# VS Code Generated
+.vscode/
